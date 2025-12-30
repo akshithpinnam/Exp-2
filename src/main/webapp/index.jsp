@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2><%= "devops exp-2" %></h2>
+<h2><%= "Hello world" %></h2>
+<h1><%= "Welcome to jsp tags" %><h1>
 </body>
-</html>
+</html
